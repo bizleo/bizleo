@@ -1,0 +1,17 @@
+I found really detailed df of an eletronics store splited in all month during the whole year.
+my goal is construct a small story telling considering the price, quantity and time of the sells.
+
+
+I took a look at all charts. All them contain the following information an Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address. (PS: in this form one client order can take multiple lines, if they purchase more than one product [a bit more than 500 clients on this situation in Jan])
+
+To have a better view of all and future clean it. I merged all 
+Some cleaning was necessary (e.g: drop NaN, when Month = Or, and the title of all merged charts repeated)
+With that I was able to answer the following questions:
+
+
+What was the best month for sales? How much was earned that month?
+What city sold the most product?
+What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+What products are most often sold together?
+What product sold the most? Why do you think it sold the most?
+
