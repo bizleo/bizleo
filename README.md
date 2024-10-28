@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bizleo. I recentely finished my PhD in mathematics and now I want to learn more about Data Science
-- 👀 I’m interested in Data Analysis using ML methods, simulations and predictions to be useful in many fields-
-- 🌱 I’m currently learning SQL, Python and thier libaries related to data, like pandas, numpy, mathplot, Scikit and more... 
-- 💞️ I’m looking to collaborate on projects that improve my learning and knowledge in data treating, cleaning and manipulation. So in few months I can reach my goals
+- 👋 Hi, I’m @bizleo. I finished my PhD in mathematics in 2021 and now started my programmer carrer few months after.
+- 👀 I’m interested in Data Engineering, ML methods, Frontend and Backend.
+- 🌱 I’m currently working in some personal projects using few languages that I am familiar with, like Python, TypeScript, Go and other tools like Docker, MongoDB... 
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me bizleo7@gmail.com
 
 <!---
